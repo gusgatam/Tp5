@@ -2,7 +2,9 @@
 
 int main() {
 	int n[4], i,m=0, T=0, l=0, acu=0;
-	for(i=0; i<4; i++) {
+	//20 vendedores a lo largo de 15 días
+	// un ciclo de 20 y otro de 15.-
+		for(i=0; i<4; i++) {
 		printf("ingrese numero del vendedor\n");
 		scanf("%d", &n[i]);	
 		printf("ingrese el total de unidades vendidas en 15 dias\n");

@@ -9,7 +9,7 @@ int main() {
 		
 		RT=RT+r[i];
 	}
-	printf("\nLa resistencia 1 es: %d\n", r[0]);
+	printf("\nLa resistencia 1 es: %d\n", r[0]);//Se deben acceder con estructuras repetitivas.
 	printf("\nLa resistencia 2 es: %d\n", r[1]);
 	printf("\nLa resistencia 3 es: %d\n", r[2]);
 	printf("\nLa resistencia 4 es: %d\n", r[3]);

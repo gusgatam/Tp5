@@ -1,5 +1,6 @@
 #include <stdio.h>
-
+//Se debe mostrar la posición del alumno con nota superior a 8.
+//No se realiza lo pedido.
 int main() {
 	int a[15],m[15],i,l=0;
 	
